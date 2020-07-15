@@ -1,0 +1,151 @@
+::-moz-selection { color: #fff; background-color: #29c7c8; }
+::-webkit-selection { color: #fff; background-color: #29c7c8; }
+::selection { color: #fff; background-color: #29c7c8; }
+
+.bg-color,
+.sliding-link:after,
+.sliding-link:hover:before,
+.dropcap.style-2,
+.highlight,
+.nav-cart-remove:hover,
+.cart-inner a > span,
+.navbar-toggle:focus .icon-bar,
+.navbar-toggle:hover .icon-bar,
+#back-to-top:hover,
+.pricing-table.best .pricing-title h3,
+.play-btn.hi-icon,
+.heading-bg-color,
+.flex-control-nav.flexslider-tabs-nav li:hover,
+.flex-control-nav.flexslider-tabs-nav li.flex-active,
+.pagination a:hover,
+.tags a:hover,
+.project-icons a:hover,
+.product-img.hover-1 .product-quickview:hover,
+.product-img.hover-1 .product-actions a:hover,
+.icon-add-to-wishlist a:hover,
+.ui-slider .ui-slider-range,
+.product-remove .remove:hover,
+.owl-page.active span,
+.flickity-page-dots .dot.is-selected,
+.service-item-box.style-4 a,
+.icon-effect-1 .hi-icon,
+.progress-bar,
+.btn.btn-transparent:hover,
+.btn.btn-stroke:hover,
+.btn.btn-light:hover,
+.btn.btn-white:hover,
+.btn.btn-color,
+.tp-bullet.selected,
+.tp-bullet:hover {
+  background-color: #29c7c8;
+}
+
+
+.social-icons:not(.colored) a:hover {
+  background-color: #29c7c8 !important;
+}
+
+a,
+a:focus,
+.loader,
+blockquote > span,
+.blockquote-style-1 span,
+.dropcap.style-1,
+.bullets li:before,
+.arrows i,
+.checks i,
+.top-bar-links a:hover,
+.navbar-nav > .open > a,
+.navbar-nav > .open > a:focus,
+.navbar-nav > .open > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover,
+.megamenu .menu-list > li > a:hover,
+.megamenu-wide .menu-list > li > a:hover,
+.mobile-links li > a:hover,
+.nav-cart-title > a:hover,
+.nav-cart-wrap .shopping-cart:hover,
+.sidenav a:hover,
+.nav-item-submenu li a:hover,
+.customNavigation .btn.prev:hover,
+.customNavigation .btn.next:hover,
+.intro.style-2 .subheading,
+.entry-meta li a:hover,
+.contact-item a:hover,
+.process-wrap i,
+.entry-title a:hover,
+.entry .blockquote-style-1 a:hover,
+.pagination .current,
+.widget.categories ul li a:hover,
+.entry-list ul > li a:hover,
+.portfolio-filter a.active, .portfolio-filter a:hover,
+.work-item .work-description h2 a:hover,
+.work-item .work-description > span > a:hover,
+.product-label .sale,
+.product-details .product-title:hover,
+.product-list-widget a:hover,
+.price ins,
+.benefits-list i,
+.filter-show a:hover,
+.product_meta span a:hover,
+.table.shop_table .product-name > a:hover,
+.service-item-box.style-1 i,
+.accordion .panel-default > .panel-heading > a:hover,
+.toggle > .acc-panel > a:hover,
+.accordion .panel-default > .panel-heading:hover a,
+.toggle > .acc-panel > a.active,
+.nav.nav-tabs > li.active > a,
+.nav.nav-tabs > li.active > a:hover,
+.nav.nav-tabs > li.active > a:focus,
+.nav.nav-tabs > li > a,
+.nav.nav-tabs > li > a:hover,
+.nav.nav-tabs > li > a:focus,
+.statistic.with-icon i,
+.footer-widgets a:hover,
+.copyright a:hover,
+.footer-entry .entry-meta li a:hover,
+.bottom-footer-links li a:hover {
+  color: #29c7c8;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:focus,
+.navbar-nav > .active > a:hover,
+header.transparent .navigation.scrolling .navbar-nav > li > a:hover,
+header.transparent .navigation.scrolling .navbar-nav > .active > a,
+header.transparent .navigation.scrolling .navbar-nav > .active > a:focus,
+header.transparent .navigation.scrolling .navbar-nav > .active > a:hover {
+  color: #29c7c8 !important;
+}
+
+.bottom-line:after,
+.blockquote-style-2,
+.product-label .sale,
+.service-item-box.style-1,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="time"]:focus,
+input[type="url"]:focus,
+textarea:focus,
+input[type="email"].newsletter-input:focus {
+  border-color: #29c7c8;
+}
+
+.dropdown-menu,
+.nav-cart-container {
+  border-top-color: #29c7c8;
+}
+
+.tabs-bb .nav.nav-tabs > li.active > a {
+  border-bottom-color: #29c7c8;
+}
